@@ -3,7 +3,6 @@
 
 package com.vishal;
 
-import java.util.Collections;
 import java.util.Scanner;
 
 public class LinearSearch_2 {
